@@ -1,5 +1,6 @@
-# me134
+# ME134 Detector Demo
 See scripts folder for relevant ROS nodes:
+ * blob_detector.py : detects green circle in camera output
  * template_detector.py: detects template in camera output
  * display.py: displays detector output overlayed over camera output
 
